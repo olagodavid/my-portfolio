@@ -5,7 +5,7 @@
 /*hero section*/
 .hero{
 	background-image: url(../img/mt.jpg);
-	position: fixed;
+	/*position: fixed;*/
 	background-repeat: no-repeat;
 	height: 100%;
 	width: 100%;
@@ -31,9 +31,14 @@ a:hover{
 	border-bottom: 2px solid #cc3300;
 }
 .hero-content{
-	padding: 40px;
+	padding: 20px;
 	text-align: center;
-	font-family: 'Poiret One', cursive;
+}
+.hero-content h2{
+	padding-bottom: 25px;
+	font-family: 'Rakkas', cursive;
+	color: white;
+
 }
 .hero-content a{
 	border: 1px solid #d9d9d9;
@@ -41,4 +46,64 @@ a:hover{
 	padding: 10px;
 	text-align: center;
 	color: white;
+	font-family: 'Poiret One', cursive;
+
+}
+/* second section*/
+.front{
+	padding: 30px 50px 100px 50px;
+	text-align: center;
+}
+.front h2{
+	text-align: center;
+	padding-bottom: 40px;
+	font-family: 'Poiret One', cursive;
+}
+.front p{
+	padding: 15px;
+	font-family: 'Poiret One', cursive;
+	margin-bottom: 10px;
+}
+.front a{
+	text-align: center;
+	border: 1px solid #b3b3b3;
+	border-radius: 7px;
+	padding: 5px;
+}
+.front a:hover{
+	color:  #993300;
+}
+
+/*-----*/
+.python{
+	padding: 30px 50px 100px 50px;
+	text-align: center;
+}
+.python h2{
+	font-family: 'Poiret One', cursive;
+	text-align: center;
+}
+/*------*/
+.android{
+	padding: 30px 50px 100px 50px;
+	text-align: center;
+}
+.android h2{
+	font-family: 'Poiret One', cursive;
+	text-align: center;
+}
+/*about section*/
+.about{
+	padding: 30px 50px 100px 50px;
+	text-align: center;
+	font-family: 'Poiret One', cursive;
+	background-color: #f2f2f2;
+}
+.about h4{
+	font-family: 'Poiret One', cursive;
+	padding: 15px 0;
+}
+.about p{
+	line-height: 20px;
+	padding: 10px;
 }
