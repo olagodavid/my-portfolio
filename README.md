@@ -5,6 +5,8 @@ Technologies Employed
 * Google fonts
 * Font Awesome
 
-Contributors: **Gitau Harrison**
+Contributors: 
+1. [Gitau Harrison](https://github.com/GitauHarrison)
+2. [David Joel](https://github.com/olagodavid)
 
 ![img](img/portfolio.png)
