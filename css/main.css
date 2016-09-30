@@ -2,6 +2,12 @@ body {
   padding-top: 50px;
   font-family: 'Josefin Sans', Verdana, Geneva, sans-serif;
 }
+.palma-header{
+  padding-bottom: 15px;
+}
+.palma{
+  padding-top: 15px;
+}
 .wide {
   display: table;
   width: 100%;
